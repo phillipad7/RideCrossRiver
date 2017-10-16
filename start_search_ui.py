@@ -1,7 +1,3 @@
-# Chaoyi Wang ID: 75959618
-# Project 3
-# This module is used to reads the input and constructs the objects that
-# will generate the program's output
 
 import bunch_outputs
 

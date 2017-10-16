@@ -1,7 +1,4 @@
-# Chaoyi Wang ID: 75959618
-# Project 3
-# This module is used to classify each output as classes
-#
+
 
 import map_api
 

@@ -1,7 +1,4 @@
-# Chaoyi Wang ID: 75959618
-# Project 3
-# This module is used to interact with MapQuest API
-#
+
 
 import json
 import urllib.parse
